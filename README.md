@@ -1,4 +1,4 @@
-# ROS node for YOLOv3-tiny on Jetson tx2
+# YOLOv3-tiny on Jetson tx2
 
 This is a tested ROS node for YOLOv3-tiny on Jetson tx2 
 
