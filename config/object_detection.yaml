@@ -1,0 +1,4 @@
+classification:
+  model: '/scripts/classifier/model/yolo.h5'
+  anchors: '/scripts/classifier/model/tiny_yolo_anchors.txt'
+  classes: '/scripts/classifier/model/classes.txt'

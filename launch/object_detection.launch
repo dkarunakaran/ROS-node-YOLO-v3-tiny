@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="object_detection" type="object_detection.py" name="object_detection" output="screen"/>
+</launch>
