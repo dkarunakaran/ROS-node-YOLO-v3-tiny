@@ -1,6 +1,8 @@
 # YOLOv3-tiny on Jetson tx2
 
-This is a tested ROS node for YOLOv3-tiny on Jetson tx2 
+This is a tested ROS node for YOLOv3-tiny on Jetson tx2.
+
+Please see the medium post to get the understanding about this repo: https://medium.com/intro-to-artificial-intelligence/run-yolo-v3-as-ros-node-on-jetson-tx2-without-tensorrt-43f562aadc68
 
 ### Credit
 
